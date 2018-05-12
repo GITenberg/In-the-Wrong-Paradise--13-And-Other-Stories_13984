@@ -1,0 +1,34 @@
+_repo: In-the-Wrong-Paradise--13-And-Other-Stories_13984
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: ''
+gutenberg_issued: '2004-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13984'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paranormal fiction'
+- !lcsh 'Science fiction, English'
+- !lcsh 'Slavery -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PR'
+tableOfContents: The end of Phæacia -- In the wrong paradise -- A cheap nigger --
+  The romance of the frst radical -- A duchess's secret -- The house of strange stories
+  -- In Castle Perilous -- The great Gladstone myth -- My friend the beach-comber.
+title: In the Wrong Paradise, and Other Stories
+url: http://www.gutenberg.org/ebooks/13984
